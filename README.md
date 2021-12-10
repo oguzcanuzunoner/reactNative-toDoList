@@ -49,15 +49,15 @@ npx react-native run-ios
 ## Screen Shot
 
 <p align="center">
-  <img src="readme_image/1.png" alt="First">
+  <img src="readme_image/1.png" alt="First"  height=500>
 </p>
 
 <p align="center">
-  <img src="readme_image/2.png" alt="Second">
+  <img src="readme_image/2.png" alt="Second" height=500>
 </p>
 
 <p align="center">
-  <img src="readme_image/3.png" alt="Third">
+  <img src="readme_image/3.png" alt="Third" height=500>
 </p>
 
 ## Developer
